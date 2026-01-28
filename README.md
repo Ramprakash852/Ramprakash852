@@ -143,7 +143,7 @@ System Design · OOP · Performance Optimization
 
 - 📧 Email: **bhukyaramprakash1@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/bhukya-ramprakash-2774b428b/
-- 🧠 LeetCode: *(add your profile link)*
+- 🧠 LeetCode: https://leetcode.com/u/Rp852/
 - 🧑‍💻 GitHub: https://github.com/Ramprakash852
 
 ---
